@@ -1,5 +1,3 @@
-varma.pem
-var.tf
 variable.tf
 *.tfvars
 .terraform.lock.hcl
